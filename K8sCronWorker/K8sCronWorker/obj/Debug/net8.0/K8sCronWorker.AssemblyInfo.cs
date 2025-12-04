@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("K8sCronWorker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f042557c08c0fdb0503bdecc5c55b4903d7fca1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e040d60a45c2be26527d3a429420dc40f1ff5db")]
 [assembly: System.Reflection.AssemblyProductAttribute("K8sCronWorker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("K8sCronWorker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

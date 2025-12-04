@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\mathe\\source\\repos\\K8sCronWorker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mathe\\source\\repos\\K8sCronWorker\\deployment.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:deployment.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{EE0985BD-FD12-4176-AAF0-8C3D66F47FD0}|k8s{EE0985BD-FD12-4176-AAF0-8C3D66F47FD0}|C:\\Users\\mathe\\source\\repos\\K8sCronWorker\\deployment.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EE0985BD-FD12-4176-AAF0-8C3D66F47FD0}|k8s{EE0985BD-FD12-4176-AAF0-8C3D66F47FD0}|solutionrelative:deployment.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mathe\\source\\repos\\K8sCronWorker\\K8sCronWorker\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:K8sCronWorker\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{586D618E-BDED-4124-ADF3-61D3D04F951C}|K8sCronWorker\\K8sCronWorker.csproj|c:\\users\\mathe\\source\\repos\\k8scronworker\\k8scronworker\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{586D618E-BDED-4124-ADF3-61D3D04F951C}|K8sCronWorker\\K8sCronWorker.csproj|solutionrelative:k8scronworker\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mathe\\source\\repos\\K8sCronWorker\\K8sCronWorker\\Worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:K8sCronWorker\\Worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{586D618E-BDED-4124-ADF3-61D3D04F951C}|K8sCronWorker\\K8sCronWorker.csproj|c:\\users\\mathe\\source\\repos\\k8scronworker\\k8scronworker\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{586D618E-BDED-4124-ADF3-61D3D04F951C}|K8sCronWorker\\K8sCronWorker.csproj|solutionrelative:k8scronworker\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
