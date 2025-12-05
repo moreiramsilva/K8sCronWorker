@@ -86,30 +86,3 @@ kubectl apply -f deployment.yaml
 ```
 
 This will create a single pod running the cron worker.
-
-### A more robust solution: Kubernetes CronJob
-
-While the current solution works, a more idiomatic and robust way to run cron jobs in Kubernetes is to use a `CronJob` resource. A `CronJob` creates a job, which in turn creates a pod, on a specified schedule. This is more efficient as it doesn't require a pod to be running all the time.
-
-Here is an example of a `CronJob` resource for this worker:
-
-```yaml
-apiVersion: batch/v1
-kind: CronJob
-metadata:
-  name: cron-worker-cronjob
-spec:
-  schedule: "*/1 * * * *"
-  jobTemplate:
-    spec:
-      template:
-        spec:
-          containers:
-          - name: cron-worker
-            image: k8scronworker:v1
-            imagePullPolicy: IfNotPresent
-          restartPolicy: OnFailure
-```
-
-To use this, you would create a `cronjob.yaml` file with the content above and apply it with `kubectl apply -f cronjob.yaml`.
-This approach is recommended for production environments.
