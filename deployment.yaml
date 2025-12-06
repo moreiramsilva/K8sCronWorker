@@ -22,3 +22,8 @@ spec:
           limits:
             memory: "128Mi"
             cpu: "250m"
+        #VARIÁVEIS DE AMBIENTE
+        env:
+        - name: CRON_SCHEDULE          # Nome da variável lida no código C#
+          value: "*/1 * * * *"        # Valor: A cada 1 minuto (Minuto Hora Dia Mes DiaSemana)
+        #FIM DA NOVA SEÇÃO
